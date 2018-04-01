@@ -13,7 +13,6 @@ for( 6 lines )
 
 */
 public class P7_NestedLoopBox {
-
 	
 	public static void main(String[] args) {
 		for(int lines = 6; lines >= 1; lines--) {
@@ -22,6 +21,8 @@ public class P7_NestedLoopBox {
 			}
 			
 			System.out.println();
+
+			
 		}
 		
 	}

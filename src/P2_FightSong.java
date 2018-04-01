@@ -1,6 +1,6 @@
 /*
   	ISYS 320
-  	Name(s):
+  	Name(s):Carolyn Turner
   	Date: 
 */
 
@@ -20,9 +20,11 @@ public class P2_FightSong {
 		go();
 	}
 
+
 	public static void go() {
 		System.out.println("Go, team, go!\nYou can do it.");
 	}
+
 	
 	public static void best() {
 		System.out.println("You're the best,\nIn the West.");

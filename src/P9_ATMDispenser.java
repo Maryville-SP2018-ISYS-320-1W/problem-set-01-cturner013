@@ -12,7 +12,7 @@ public class P9_ATMDispenser {
 		int tens;
 		int ones;
 		
-		dollars = 49;
+		dollars = 73;
 		tens = dollars / 10;
 		ones = dollars % 10;
 		
